@@ -127,10 +127,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Axtaris.cpp" />
     <ClCompile Include="FinalTask.cpp" />
+    <ClCompile Include="Color.cpp" />
+    <ClCompile Include="Isci.cpp" />
+    <ClCompile Include="Menyu.cpp" />
+    <ClCompile Include="Telefon_maqazasi.cpp" />
+    <ClCompile Include="Telefon.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Axtaris.h" />
+    <ClInclude Include="Getch.h" />
+    <ClInclude Include="Color.h" />
+    <ClInclude Include="Telefon_maqazasi.h" />
+    <ClInclude Include="Isci.h" />
+    <ClInclude Include="Menyu.h" />
     <ClInclude Include="Structs.h" />
+    <ClInclude Include="Telefon.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

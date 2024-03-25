@@ -1,5 +1,2 @@
 ﻿  FinalTask.cpp
-C:\Users\murad\OneDrive\Desktop\FinalTask\FinalTask\FinalTask.cpp(799,9): warning C4101: 'chose': unreferenced local variable
-C:\Users\murad\OneDrive\Desktop\FinalTask\FinalTask\FinalTask.cpp(561): warning C4715: 'axtaris_telefon': not all control paths return a value
-C:\Users\murad\OneDrive\Desktop\FinalTask\FinalTask\FinalTask.cpp(687): warning C4715: 'axtaris_isci': not all control paths return a value
   FinalTask.vcxproj -> C:\Users\murad\OneDrive\Desktop\FinalTask\x64\Debug\FinalTask.exe

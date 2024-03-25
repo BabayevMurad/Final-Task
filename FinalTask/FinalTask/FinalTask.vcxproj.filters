@@ -18,9 +18,48 @@
     <ClCompile Include="FinalTask.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Color.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menyu.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Telefon.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Isci.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Axtaris.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Telefon_maqazasi.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Structs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Getch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menyu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Telefon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Isci.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Axtaris.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Telefon_maqazasi.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
